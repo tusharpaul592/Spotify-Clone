@@ -152,11 +152,11 @@ nav ul li:hover{
     font-weight: bold;
 }
 .text{
-    margin-left: 1050px ;
-    margin-right: 20px;
+    margin-left: 980px ;
+    margin-right: 15px;
     padding-left: 87px;
     border-radius: 14px;
-    width: 150px;
+    width: 60px;
 }
 .btn btn-primary
 {
